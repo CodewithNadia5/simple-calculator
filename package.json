@@ -1,7 +1,7 @@
 {
-  "name": "code_with_nadia_ahmed_simple_calculater",
+  "name": "code_with_nadia_ahmed_simple_calculator",
   "version": "1.0.0",
-  "description": "\"Simple Calculater\"",
+  "description": "\"Simple Calculator\"",
   "main": "index.js",
   "type": "module",
   "bin":"index.js",
